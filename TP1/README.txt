@@ -1,0 +1,1 @@
+Se solicita realizar una aplicación capaz de resolver las siguientes operaciones matemáticas entre dos operandos: ● Suma ● Resta ● Multiplicación ● División Dicha aplicación deberá contar con una interfaz gráfica
