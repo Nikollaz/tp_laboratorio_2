@@ -1,0 +1,28 @@
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe.config
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.pdb
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.csprojResolveAssemblyReference.cache
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.Properties.Resources.resources
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.csproj.GenerateResource.Cache
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.exe
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.pdb
+F:\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.TrabajoPractico01_Calculadora.resources
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe.config
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.exe
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.pdb
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.pdb
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.TrabajoPractico01_Calculadora.resources
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\Saavedra.Nicolas\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Desktop\Programacion\Tecnicatura\Programacion y laboratorio II\TP1\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe.config
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe.config
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.exe
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\bin\Debug\Saavedra.Nicolas.TrabajoPractico01.pdb
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.TrabajoPractico01_Calculadora.resources
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.Properties.Resources.resources
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.exe
+C:\Users\Nicolas\Documents\GitHub\LabProg2_Tp1\Saavedra.Nicolas.TrabajoPractico01\obj\Debug\Saavedra.Nicolas.TrabajoPractico01.pdb
