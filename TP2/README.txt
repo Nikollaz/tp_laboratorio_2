@@ -1,0 +1,1 @@
+Se debera arreglar el ejercicio propuesto (descargar esqueleto) a fin de lograr la misma funcionalidad (descargar Ejecutable Funcional) sin modificar la logica ni el sentido del programa. Se deberan respetar las pautas establecidas tanto aqui como en el contenido del ejerccio por medio de los comentarios.
