@@ -1,0 +1,11 @@
+JORNADA: 
+CLASE DE Laboratorio
+NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 2
+
+CLASES DEL DIA: 
+Laboratorio 
+SPD 
+<--------------------------------------------->
