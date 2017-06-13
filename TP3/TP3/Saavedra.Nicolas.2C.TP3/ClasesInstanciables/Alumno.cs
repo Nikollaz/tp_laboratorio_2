@@ -40,7 +40,7 @@ namespace ClasesInstanciables
         {
             StringBuilder str = new StringBuilder("");
             str.Append(base.MostrarDatos());
-            str.Append("ESTADO DE CUENTA: " + this._estadoCuenta + "\n");
+            str.AppendLine("ESTADO DE CUENTA: " + this._estadoCuenta);
             str.Append(this.ParticiparEnClase());
             return str.ToString();
         }

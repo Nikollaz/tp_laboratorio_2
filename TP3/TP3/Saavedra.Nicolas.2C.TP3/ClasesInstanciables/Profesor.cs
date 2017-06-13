@@ -96,10 +96,10 @@ namespace ClasesInstanciables
         protected override string ParticiparEnClase()
         {
             StringBuilder str = new StringBuilder("");
-            str.Append("CLASES DEL DIA: \n");
+            str.AppendLine("CLASES DEL DIA: ");
             foreach (Universidad.EClases clase in this._clasesDelDia)
             {
-                str.Append(clase.ToString() + " \n");
+                str.AppendLine(clase.ToString());
             }
             return str.ToString();
         }

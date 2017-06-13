@@ -92,8 +92,8 @@ namespace EntidadesAbstractas
         public override string ToString()
         {
             StringBuilder str = new StringBuilder("");
-            str.Append("NOMBRE COMPLETO: " + this.Apellido + ", " + this.Nombre + "\n");
-            str.Append("NACIONALIDAD: " + this.Nacionalidad.ToString()+ "\n\n");
+            str.AppendLine("NOMBRE COMPLETO: " + this.Apellido + ", " + this.Nombre);
+            str.AppendLine("NACIONALIDAD: " + this.Nacionalidad.ToString());
             return str.ToString();
         }
 
@@ -106,23 +106,14 @@ namespace EntidadesAbstractas
         /// <returns></returns>
         private int ValidarDni(ENacionalidad nacionalidad, int dato) 
         {
-            try
+            if (((nacionalidad.Equals(ENacionalidad.Argentino)) && (dato < 0 || dato > 90000000)))
             {
-                if (!(nacionalidad.Equals(ENacionalidad.Argentino)) && (dato < 1 || dato > 89999999))
-                {
-                    throw new DniInvalidoException();
-                }
+                throw new DniInvalidoException();
             }
-            catch (DniInvalidoException e)
+            if (((nacionalidad.Equals(ENacionalidad.Extranjero)) && (dato < 90000000)))
             {
-                Console.WriteLine("La nacionalidad no se condice con el numero de DNI");
-                return -1;
+                throw new NacionalidadInvalidaException();
             }
-
-            //if (!(nacionalidad.Equals(ENacionalidad.Argentino)) && (dato < 1 || dato > 89999999))
-            //{
-            //    throw new DniInvalidoException();
-            //}
            
             return dato; 
         }

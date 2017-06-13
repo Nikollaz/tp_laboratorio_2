@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Xml.Serialization;
 using Excepciones;
+using EntidadesAbstractas;
 
 namespace ClasesInstanciables
 {
@@ -69,6 +70,7 @@ namespace ClasesInstanciables
         public static bool Guardar(Universidad gim) 
         {
             //Universidad.xml
+            
             StreamWriter str = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "Universidad.xml", false);
             XmlSerializer xml = new XmlSerializer(typeof(Universidad));
 
@@ -113,17 +115,10 @@ namespace ClasesInstanciables
         private static string MostrarDatos(Universidad gim) 
         {
             StringBuilder str = new StringBuilder("");
-            foreach (Alumno alumno in gim.Alumnos)
-            {
-                str.Append(alumno.ToString());
-            }
+            str.AppendLine("JORNADA: ");
             foreach (Jornada jornada in gim.Jornadas)
             {
                 str.Append(jornada.ToString());
-            }
-            foreach (Profesor profesor in gim.Instructores)
-            {
-                str.Append(profesor.ToString());
             }
             return str.ToString();
         }
@@ -176,31 +171,14 @@ namespace ClasesInstanciables
         /// <returns></returns>
         public static Universidad operator +(Universidad g, Alumno a) 
         {
-            try
+            if (g != a)
             {
-                if (g != a)
-                {
-                    g.Alumnos.Add(a);
-                }
-                else
-                {
-                    throw new AlumnoRepetidoException();
-                }
+                g.Alumnos.Add(a);
             }
-            catch (AlumnoRepetidoException e)
+            else
             {
-                Console.WriteLine(e.Message);
-                return g;
+                throw new AlumnoRepetidoException();
             }
-
-            //if (g != a)
-            //{
-            //    g.Alumnos.Add(a);
-            //}
-            //else
-            //{
-            //    throw new AlumnoRepetidoException();
-            //}
 
             return g; 
         }
@@ -223,6 +201,11 @@ namespace ClasesInstanciables
             {
                 jornada = new Jornada(clase, prof);
             }
+            else
+            {
+                throw new SinProfesorException();
+            }
+                
             if (!(Object.Equals(jornada, null)))
             {
                 foreach (Alumno al in g.Alumnos)
@@ -246,30 +229,14 @@ namespace ClasesInstanciables
         /// <returns></returns>
         public static Universidad operator +(Universidad g, Profesor i) 
         {
-            try
+            if (g != i)
             {
-                if (g != i)
-                {
-                    g.Instructores.Add(i);
-                }
-                else
-                {
-                    throw new SinProfesorException();
-                }
+                g.Instructores.Add(i);
             }
-            catch (SinProfesorException e)
+            else
             {
-                Console.WriteLine(e.Message);
+                throw new SinProfesorException();
             }
-
-            //if (g != i)
-            //{
-            //    g.Instructores.Add(i);
-            //}
-            //else
-            //{
-            //    throw new SinProfesorException();
-            //}
 
             return g; 
         }
@@ -331,11 +298,11 @@ namespace ClasesInstanciables
             return MostrarDatos(this);
         }
 
-        public Universidad() 
+        public Universidad()
         {
-            this.Alumnos = new List<Alumno>();
-            this.Instructores = new List<Profesor>();
             this.Jornadas = new List<Jornada>();
+            this.Instructores = new List<Profesor>();
+            this.Alumnos = new List<Alumno>();       
         }
 
         public enum EClases

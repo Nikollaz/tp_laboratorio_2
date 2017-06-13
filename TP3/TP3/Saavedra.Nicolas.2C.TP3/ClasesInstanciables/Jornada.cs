@@ -114,15 +114,15 @@ namespace ClasesInstanciables
         /// <returns></returns>
         public override string ToString()
         {
-            StringBuilder str = new StringBuilder("");
-            str.Append("JORNADA: \n");
-            str.Append("CLASE DE " + this.Clase + "\n");
+            StringBuilder str = new StringBuilder("");            
+            str.AppendLine("CLASE DE " + this.Clase);
+            str.AppendLine(this.Instructor.ToString());
+            str.AppendLine("ALUMNOS: ");
             foreach (Alumno alumno in this.Alumnos)
             {
-                str.Append(alumno.ToString());
+                str.AppendLine(alumno.ToString());
             }
-            str.Append(this.Instructor.ToString());
-            str.Append("<--------------------------------------------->\n");
+            str.AppendLine("<--------------------------------------------->\n");
             return str.ToString();
         }
         
