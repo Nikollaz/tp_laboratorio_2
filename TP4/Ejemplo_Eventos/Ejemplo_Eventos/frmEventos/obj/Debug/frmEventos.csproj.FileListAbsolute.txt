@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\Ejemplo_Eventos.frmEventos.resources
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.pdb
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.exe
+D:\Federico\VB .Net\Visual C#\utn\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.pdb
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe.config
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.exe
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.pdb
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.exe
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\bin\Debug\frmEventos.pdb
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csprojResolveAssemblyReference.cache
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\obj\Debug\Ejemplo_Eventos.frmEventos.resources
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.Properties.Resources.resources
+F:\Tecnicatura\Programacion y laboratorio II\TP4\Ejemplo_Eventos\Ejemplo_Eventos\frmEventos\obj\Debug\frmEventos.csproj.GenerateResource.Cache
